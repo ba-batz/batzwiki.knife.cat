@@ -1,4 +1,4 @@
 baseURL = 'https://batzwiki.knife.cat/'
 languageCode = 'de-at'
-title = 'wiki'
+title = 'Batz Wiki'
 theme = 'cyberalienwiki'
