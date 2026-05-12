@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wiki</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on wiki</description>
+    <generator>Hugo</generator>
+    <language>de-at</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/biologie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/biologie/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/zelle&#34;&gt;Zelle&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/dna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/dna/</guid>
+      <description>&lt;h2 id=&#34;desoxyribonukleinsäure&#34;&gt;Desoxyribonukleinsäure&lt;/h2&gt;&#xA;&lt;p&gt;DNA bestimmt die Zusammensetzung von &lt;a href=&#34;http://localhost:1313/proteine&#34;&gt;Proteinen&lt;/a&gt; (Eiweiße). Dort ist die gesamte Erbinformation des kompletten Organismus verpackt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/er/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/er/</guid>
+      <description>&lt;h2 id=&#34;endoplasmatisches-retikulum&#34;&gt;Endoplasmatisches Retikulum&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/euchromatin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/euchromatin/</guid>
+      <description>&lt;p&gt;Entwirrtes &lt;a href=&#34;http://localhost:1313/heterochromatin&#34;&gt;Heterochromatin&lt;/a&gt; um es ablesbar zu machen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/heterochromatin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/heterochromatin/</guid>
+      <description>&lt;p&gt;Verflochtenes und dich verpackte DNA.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/kernpore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/kernpore/</guid>
+      <description>&lt;p&gt;Hier kommen Stoffe vom Zytoplasma in den Kern.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/medizin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/medizin/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/vokabelliste&#34;&gt;Vokabelliste&lt;/a&gt;&#xA;&lt;a href=&#34;http://localhost:1313/biologie&#34;&gt;Biologie&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/mitochondrium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mitochondrium/</guid>
+      <description>&lt;h2 id=&#34;mitochondrium&#34;&gt;Mitochondrium&lt;/h2&gt;&#xA;&lt;p&gt;Kraftwerk der Zelle&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/nucleolus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/nucleolus/</guid>
+      <description>&lt;h2 id=&#34;kernkörperchen&#34;&gt;Kernkörperchen&lt;/h2&gt;&#xA;&lt;p&gt;Hier wird in den fünf Nucleolus Organizer Regions die &lt;a href=&#34;http://localhost:1313/rrna&#34;&gt;rRNA&lt;/a&gt; der &lt;a href=&#34;http://localhost:1313/ribosom&#34;&gt;Ribosomen&lt;/a&gt; hergestellt. Sie werden in den akrozentrischen Chromosomen 13,14,15,21 und 22 vorgefunden.&lt;/p&gt;&#xA;&lt;p&gt;Das ist der erste Schritt der &lt;a href=&#34;http://localhost:1313/proteinbiosynthese&#34;&gt;Proteinbiosynthese&lt;/a&gt;, auch &lt;a href=&#34;http://localhost:1313/transkription&#34;&gt;Transkription&lt;/a&gt; genannt.&#xA;Hier wird aus &lt;a href=&#34;http://localhost:1313/dna&#34;&gt;DNA&lt;/a&gt;, &lt;a href=&#34;http://localhost:1313/mrna&#34;&gt;mRNA&lt;/a&gt; gemacht. Über die Kernporen wandert diese in die &lt;a href=&#34;http://localhost:1313/ribosom&#34;&gt;Ribosome&lt;/a&gt; des rauen &lt;a href=&#34;http://localhost:1313/er&#34;&gt;ER&lt;/a&gt; oder zu denen des &lt;a href=&#34;http://localhost:1313/zytoplasma&#34;&gt;Zytoplasmas&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/proteinbiosynthese/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proteinbiosynthese/</guid>
+      <description>&lt;p&gt;Besteht aus zwei Schritten.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/transkription&#34;&gt;Transkription&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/translation&#34;&gt;Translation&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/proteine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/proteine/</guid>
+      <description>&lt;h2 id=&#34;proteine&#34;&gt;Proteine&lt;/h2&gt;&#xA;&lt;p&gt;Makromoleküle bestehend aus verschiedenen Aminosäuren.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ribosom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ribosom/</guid>
+      <description>&lt;p&gt;Hier wird &lt;a href=&#34;http://localhost:1313/translation&#34;&gt;Translation&lt;/a&gt;, der zweite Schritt der &lt;a href=&#34;http://localhost:1313/proteinbiosynthese&#34;&gt;Proteinbiosynthese&lt;/a&gt;, betrieben, es wird die &lt;a href=&#34;http://localhost:1313/mrna&#34;&gt;mRNA&lt;/a&gt; in ein &lt;a href=&#34;http://localhost:1313/proteine&#34;&gt;Protein&lt;/a&gt; übersetzt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/stoffwechsel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stoffwechsel/</guid>
+      <description>&lt;h2 id=&#34;metabolismus&#34;&gt;Metabolismus&lt;/h2&gt;&#xA;&lt;p&gt;Die Gesamtheit der chemischen Vorgänge, die Aufbau und Erhaltung der Zellsubstanz ermöglicht und Energie (für z.B. Muskelzellenkontraktion) bereitstellt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/vokabelliste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vokabelliste/</guid>
+      <description>&lt;h2 id=&#34;zelle&#34;&gt;&lt;a href=&#34;http://localhost:1313/zelle&#34;&gt;Zelle&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Wort&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Herkunft&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Bedeutung&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Beispiel&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Prokaryote&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;pro (vor) + karyon (Kern)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Zelle ohne Zellkern&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Bakterien&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Euzyte&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;eu (gut,echt) + karyon&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Zelle mit Zellkern&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Nervenzelle&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Nukleoid&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;nukleos (Kern) + oeides (ähnlich,artig)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Zellkern&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Chromosom&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;chroma (Farbe) + soma (Körper)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Träger von DNS&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Plasmid&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;plasma (Gebilde,Form) + oedis&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Mitochondrium&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;mitos (Faden) + chondrion (Korn)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Kraftwerk der Zelle&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Membran&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;membrana (Häutchen)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Lysosom&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;lysis (Auflösung) + soma&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;endoplasmatisches Retikulum&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;endon (immer) + plasma +  reticulum (kleines Netz)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;ER&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Zystol&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;solutio (Lösung)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Kinozilie&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;kinein (bewegen) + cilium (Augenlied,Wimper)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Mikrovilli&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;mikro (klein) + villi (zottiges Haar)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Lunge,Magen&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Zentriol&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;kentrum (Mittelpunkt) + iol (chen)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Peroxisom&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;peroxid (H2O2)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Proteasom&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;protein (proton (der Erste))&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Zellnekrose&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;nekrosis (das Töten)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Apoptose&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Apoptosis (apo (weg) + ptosis (fallen))&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Metabolismus&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;metabolie (Umsetzung,Änderung,Übergang)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Desoxyribonnukleinsäure&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;de (ab,weg) + oxygenium (O2) + ribose (Zucker)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Erbgut&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;DNS,DNA&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Aminosäure&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;ammoniak (NH3)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Phospholipid&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;phosphor + lipos (fett) + oedis&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Heterochromatin&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;heteros (anders,ungleich) + chroma&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;HC&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;perinkuläres HC&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;peri (um&amp;hellip;herum) + nukleos&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;peripheres HC&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;periphereia (peri + phereia (tragen))&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Kernlamina&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;lamina (Platte,Blatt,Scheibe)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;ER-Lumen&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;lumen (Fenster)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;ER-Zisternen&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;cisterna (Wasser-,Sammelbehälter)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Vesikel&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;vesicula (Bläschen)&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/zelle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zelle/</guid>
+      <description>&lt;h2 id=&#34;prokaryote&#34;&gt;Prokaryote&lt;/h2&gt;&#xA;&lt;p&gt;Zelle ohne Zellkern (Bakterien).&lt;/p&gt;&#xA;&lt;h2 id=&#34;euzyte&#34;&gt;Euzyte&lt;/h2&gt;&#xA;&lt;p&gt;Zelle mit Zellkern.&lt;/p&gt;&#xA;&lt;p&gt;Hier wird &lt;a href=&#34;http://localhost:1313/stoffwechsel&#34;&gt;Stoffwechsel&lt;/a&gt; betrieben (Energie und &lt;a href=&#34;http://localhost:1313/proteine&#34;&gt;Proteine&lt;/a&gt;). Die wichtigsten Eigenschaften sind ihr Zellzyklus (reproduktion durch Zellteilung), Reize wahrnehmen zu können, sich zu bewegen, struckturiert zu sein, entwickeln und wachsen zu können und Zellnekrose und Apoptose.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Zellmembran&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Geißeln&lt;/li&gt;&#xA;&lt;li&gt;Kinozilien&lt;/li&gt;&#xA;&lt;li&gt;Mikrovilli&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/zytoplasma&#34;&gt;Zytoplasma&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/zytoskelett&#34;&gt;Zytoskelett&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Zytosol&lt;/li&gt;&#xA;&lt;li&gt;glattes &lt;a href=&#34;http://localhost:1313/er&#34;&gt;ER&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;rauhes &lt;a href=&#34;http://localhost:1313/er&#34;&gt;ER&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Ribosome&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/zellkern&#34;&gt;Zellkern&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kernhülle&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/dna&#34;&gt;DNA&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;freie Ribosome&lt;/li&gt;&#xA;&lt;li&gt;Zentiol&lt;/li&gt;&#xA;&lt;li&gt;Golgi-Apparat&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/mitochondrium&#34;&gt;Mitochondrium&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/dna&#34;&gt;DNA&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&amp;ldquo;Müllabfuhr&amp;rdquo;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lysome&lt;/li&gt;&#xA;&lt;li&gt;Proteasome&lt;/li&gt;&#xA;&lt;li&gt;Peroxisome&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/zellkern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zellkern/</guid>
+      <description>&lt;h2 id=&#34;nucleus&#34;&gt;Nucleus&lt;/h2&gt;&#xA;&lt;p&gt;Die Heimat der &lt;a href=&#34;http://localhost:1313/dna&#34;&gt;DNA&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Doppelmembran&#xA;&lt;ul&gt;&#xA;&lt;li&gt;innere Phospholipiddoppelschicht&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kernlamina&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;äußere Phosopholipiddoppelschicht&#xA;&lt;ul&gt;&#xA;&lt;li&gt;rauhes &lt;a href=&#34;http://localhost:1313/er&#34;&gt;ER&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/ribosom&#34;&gt;Ribosom&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Karyoplasma&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/kernpore&#34;&gt;Kernpore&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/euchromatin&#34;&gt;Euchromatin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;perinkuläres &lt;a href=&#34;http://localhost:1313/heterochromatin&#34;&gt;Heterochromatin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;peripheres &lt;a href=&#34;http://localhost:1313/heterochromatin&#34;&gt;Heterochromatin&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nucleolus&#34;&gt;Nucleolus&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/zytoplasma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zytoplasma/</guid>
+      <description>&lt;p&gt;Zytoplamsa ist eine wässrige Lösung, die die Zelle füllt.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/zytoskelett/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zytoskelett/</guid>
+      <description>&lt;p&gt;Das Zytoskelett ist aus verschiedenen dichten Proteinnetzen und Grundbausteinen gebildet wird und fest oder locker mit Zellorganellen,-membran verwachsen ist.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
