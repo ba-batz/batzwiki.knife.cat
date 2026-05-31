@@ -6,7 +6,7 @@ Zelle ohne Zellkern (Bakterien).
 
 Zelle mit Zellkern.  
   
-Hier wird [Stoffwechsel](/stoffwechsel) betrieben (Energie und [Proteine](/proteine)). Die wichtigsten Eigenschaften sind ihr Zellzyklus (reproduktion durch Zellteilung), Reize wahrnehmen zu können, sich zu bewegen, struckturiert zu sein, entwickeln und wachsen zu können und Zellnekrose und Apoptose.
+Hier wird [Stoffwechsel](/stoffwechsel) betrieben (Energie und [Proteine](/proteine)). Die wichtigsten Eigenschaften sind ihr Zellzyklus (reproduktion durch Zellteilung), Reize wahrnehmen zu können, sich zu bewegen, strukturiert zu sein, entwickeln und wachsen zu können und Zellnekrose und Apoptose.
 
 * Zellmembran 
     * Geißeln 
@@ -22,7 +22,7 @@ Hier wird [Stoffwechsel](/stoffwechsel) betrieben (Energie und [Proteine](/prote
     * Kernhülle 
     * [DNA](/dna) 
 * freie Ribosome 
-* Zentiol 
+* Zentriol 
 * Golgi-Apparat 
 * [Mitochondrium](/mitochondrium) 
     * [DNA](/dna)

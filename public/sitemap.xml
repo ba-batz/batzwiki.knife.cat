@@ -16,11 +16,15 @@
   </url><url>
     <loc>http://localhost:1313/kernpore/</loc>
   </url><url>
-    <loc>http://localhost:1313/medizin/</loc>
+    <loc>http://localhost:1313/medat-vokabel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/medat/</loc>
   </url><url>
     <loc>http://localhost:1313/mitochondrium/</loc>
   </url><url>
     <loc>http://localhost:1313/nucleolus/</loc>
+  </url><url>
+    <loc>http://localhost:1313/philosophie/</loc>
   </url><url>
     <loc>http://localhost:1313/proteinbiosynthese/</loc>
   </url><url>
@@ -29,8 +33,6 @@
     <loc>http://localhost:1313/ribosom/</loc>
   </url><url>
     <loc>http://localhost:1313/stoffwechsel/</loc>
-  </url><url>
-    <loc>http://localhost:1313/vokabelliste/</loc>
   </url><url>
     <loc>http://localhost:1313/zelle/</loc>
   </url><url>

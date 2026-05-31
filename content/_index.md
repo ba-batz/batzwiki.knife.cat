@@ -1,1 +1,1 @@
-[Medizin](/medizin)
+[MedAT](/medat)

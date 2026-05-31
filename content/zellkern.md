@@ -5,7 +5,7 @@ Die Heimat der [DNA](/dna).
 * Doppelmembran
     * innere Phospholipiddoppelschicht
         * Kernlamina
-    * äußere Phosopholipiddoppelschicht
+    * äußere Phospholipiddoppelschicht
         * rauhes [ER](/er)
 	    * [Ribosom](/ribosom)
 * Karyoplasma
