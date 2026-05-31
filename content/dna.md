@@ -1,3 +1,9 @@
-## Desoxyribonukleinsäure
+# Desoxyribonukleinsäure (DNA)
 
-DNA bestimmt die Zusammensetzung von [Proteinen](/proteine) (Eiweiße). Dort ist die gesamte Erbinformation des kompletten Organismus verpackt.
+- Trägt die gesamte Erbinformation des Organismus und bestimmt die Zusammensetzung von Proteinen
+- Doppelhelix, antiparallele Stränge (5'→3' und 3'→5')
+- Baustein: Nukleotid = Phosphat + Desoxyribose + Base (A/T/G/C)
+- Basenpaarung: A≡T (2 H-Brücken), G≡C (3 H-Brücken)
+- Replikation: semikonservativ (je ein Strang bleibt erhalten)
+- Eukaryotisch: linear, mit Histonen zu Nukleosomen verpackt
+- Prokaryotisch: ringförmig, im Nukleoid, ohne Histone

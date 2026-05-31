@@ -1,1 +1,3 @@
-Entwirrtes [Heterochromatin](/heterochromatin) um es ablesbar zu machen.
+# Euchromatin
+
+Entwirrte, wenig gepackte Form der DNA → ablesbar (Transkription möglich).

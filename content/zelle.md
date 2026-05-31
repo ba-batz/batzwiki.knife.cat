@@ -1,33 +1,41 @@
+# Zelle
+
 ## Prokaryote
 
-Zelle ohne Zellkern (Bakterien).
+- Zelle ohne Zellkern (z. B. Bakterien)
+- Keine membrangebundenen Organellen
+- Zellwand aus Murein (Peptidoglykan)
+- Ribosomen 70S
+- DNA ringförmig im Nukleoid
 
-## Euzyte
+## Eukaryote (Euzyte)
 
-Zelle mit Zellkern.  
-  
-Hier wird [Stoffwechsel](/stoffwechsel) betrieben (Energie und [Proteine](/proteine)). Die wichtigsten Eigenschaften sind ihr Zellzyklus (reproduktion durch Zellteilung), Reize wahrnehmen zu können, sich zu bewegen, strukturiert zu sein, entwickeln und wachsen zu können und Zellnekrose und Apoptose.
+- Zelle mit Zellkern
+- Stoffwechsel für Energie- und Proteinbiosynthese
+- Zellzyklus (Reproduktion durch Mitose/Meiose)
+- Reizwahrnehmung, Bewegung, Struktur, Entwicklung, Wachstum
+- Zellnekrose und Apoptose
 
-* Zellmembran 
-    * Geißeln 
-    * Kinozilien 
-    * Mikrovilli
-* [Zytoplasma](/zytoplasma)
-* [Zytoskelett](/zytoskelett)
-* Zytosol 
-* glattes [ER](/er) 
-* rauhes [ER](/er) 
-    * Ribosome 
-* [Zellkern](/zellkern) 
-    * Kernhülle 
-    * [DNA](/dna) 
-* freie Ribosome 
-* Zentriol 
-* Golgi-Apparat 
-* [Mitochondrium](/mitochondrium) 
-    * [DNA](/dna)
-* "Müllabfuhr"
-    * Lysome 
-    * Proteasome 
-    * Peroxisome 
- 
+Aufbau:
+
+- Zellmembran (Phospholipiddoppelschicht, Fluid-Mosaic-Model)
+  - Geißeln
+  - Kinozilien
+  - Mikrovilli
+- [Zytoplasma](/zytoplasma) = Zytosol + Cytoskelett
+- [Zytosol](/zytoplasma): wässrige Grundsubstanz
+- [Zytoskelett](/zytoskelett)
+- glattes [ER](/er)
+- rauhes [ER](/er) → Ribosomen
+- [Zellkern](/zellkern)
+  - Kernhülle (Doppelmembran mit [Kernporen](/kernpore))
+  - [DNA](/dna)
+- freie Ribosome (80S)
+- Zentriol (Mikrotubuli-Organisationszentrum)
+- [Golgi-Apparat](/golgi-apparat)
+- [Mitochondrium](/mitochondrium)
+  - mtDNA
+- „Müllabfuhr“
+  - Lysosomen
+  - Proteasome
+  - Peroxisomen

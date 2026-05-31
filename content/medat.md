@@ -1,3 +1,2 @@
-[Vokabelliste](/vokabelliste)
+[Vokabelliste](/medat-vokabel)
 [Biologie](/biologie)
-
